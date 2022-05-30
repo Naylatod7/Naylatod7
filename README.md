@@ -19,10 +19,8 @@ global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Put your numbe
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 global.thumbt = global.img
 global.fsx = 999999999999
-global.kontak = [
-['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', true],
-['6282140373458', 'Raxcel-MD ⁴⁰⁴-ﾉ [BOT MD]', true]
-]
+global.kontak = ['6282140373458', '[README MD]', true]
+
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
